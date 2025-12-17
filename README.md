@@ -64,10 +64,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/
 ## 🌐 Onde me encontrar
 
 <div>
-  <a href="https://github.com/SEU_GITHUB" target="_blank">
+  <a href="https://github.com/NdondaDaniel2020" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="mailto:SEU_EMAIL@gmail.com">
+  <a href="mailto:ndondadaniel2020@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
